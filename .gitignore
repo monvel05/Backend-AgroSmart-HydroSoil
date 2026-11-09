@@ -1,0 +1,18 @@
+# Entorno virtual Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables de entorno locales
+.env
+
+# Almacenamiento local de respaldo (cuando aún no se conecta MongoDB Atlas)
+local_db_store.json
+
+# Archivos temporales de IDEs
+.vscode/
+.idea/
+.DS_Store
